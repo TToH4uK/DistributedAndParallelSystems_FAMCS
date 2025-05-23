@@ -1,0 +1,3 @@
+This file does not contain the target word.
+We are just testing the functionality.
+There are no examples here.

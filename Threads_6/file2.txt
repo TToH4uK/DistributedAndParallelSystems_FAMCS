@@ -1,0 +1,3 @@
+Another text file for testing.
+This file also includes the word example.
+Example can be in different cases, like Example.
