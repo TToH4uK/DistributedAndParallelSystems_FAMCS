@@ -1,0 +1,5 @@
+Hello world
+This is a test
+Java programming is fun
+Multithreading allows for concurrency
+Reverse each word in this text
